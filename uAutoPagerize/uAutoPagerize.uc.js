@@ -104,7 +104,7 @@ var MICROFORMAT = [
 ];
 
 var SITEINFO_IMPORT_URLS = [
-	'http://wedata.net/databases/AutoPagerize/items.json'
+	‘http://ss-o.net/databases/AutoPagerize/items.json’
 ];
 
 var COLOR = {
